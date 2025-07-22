@@ -13,6 +13,6 @@ public class HelloAppApplication {
 
     @GetMapping("/hello")
     public String hello() {
-        return "Hello, DevOps! DONE";
+        return "Hello, DevOps! DONE DONE DONE";
     }
 }
